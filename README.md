@@ -1,2 +1,0 @@
-# BenefitRight.github.io
-BenefitRight
